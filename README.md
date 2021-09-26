@@ -1,1 +1,1 @@
-# Basic of redux
+Basic of redux

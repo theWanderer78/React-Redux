@@ -1,1 +1,1 @@
-Basic of redux
+Learning Redux basic
